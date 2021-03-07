@@ -1,5 +1,5 @@
 # Hi there 👋 
-##My name is **Juliya Shirobokova**!
+## My name is **Juliya Shirobokova**!
 ## I'm beginner *Front-end developer* from Prague.
 ### Now I'm learning 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo-JavaScript)
