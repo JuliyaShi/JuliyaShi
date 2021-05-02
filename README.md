@@ -7,8 +7,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style-for-the-badge&logo-css3)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style-for-the-badge&logo-react)
 ### Mail.me: jvshirobokova@gmail.com
-### Facebook: https://www.facebook.com/juliya.shirobokova.7/
 ### LinkedIn: https://www.linkedin.com/in/iuliia-shirobokova-917a6b1b6/
+### Facebook: https://www.facebook.com/juliya.shirobokova.7/
 ### Telegram: @Uli123
 <!--
 **JuliyaShi/JuliyaShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
