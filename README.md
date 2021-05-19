@@ -1,6 +1,6 @@
 # Hi there 👋 
 ## My name is **Juliya Shirobokova**
-## I'm beginner *Front-end developer* & *QA* from Prague.
+## I'm junior *Front-end developer* & *QA* from Prague.
 ### Now I'm learning 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo-JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo-html5)
