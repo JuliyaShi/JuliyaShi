@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## My name is **Juliya Shirobokova**
 ## I'm junior Front-end developer.
-### I'm good at
+### I'm working with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style-for-the-badge&logo-TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo-JavaScript)
 ![Python](https://img.shields.io/badge/-Python-090909?style-for-the-badge&logo-Python)
