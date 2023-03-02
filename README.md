@@ -1,5 +1,5 @@
 # Hi there 👋 
-## My name is **Juliya Shirobokova**
+## My name is **Julia Shirobokova**
 ## I'm Front-end developer.
 ### I'm working with
 ![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo-HTML)
